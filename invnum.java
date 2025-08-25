@@ -8,7 +8,7 @@ public class invnum {
         }
     }
     public static void main(String args[]){
-        inverted(5);
+        inverted(8);
     }
     
 }
