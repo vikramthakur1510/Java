@@ -1,11 +1,11 @@
-public class ilove {
+public class helllo {
     public static void main(String args[]){
         int l = 1;
         for(int i =1; i<100000;i++){
-            System.out.println("i love you");
+            System.out.println("hello");
             l++;
         }
-        System.out.print("i love you :" + l);
+        System.out.print("hello :" + l);
     }
     
 }
